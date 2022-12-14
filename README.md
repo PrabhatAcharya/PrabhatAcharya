@@ -7,7 +7,7 @@ Glad To See You Here!✨
 ----------------------
 
 
-<img align="right" alt="Coding" width="400" height="300" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 I'm a full-stack web developer specializing in MERN stack, passionate about coding and learning new technologies.
 
 
@@ -18,7 +18,6 @@ I'm a full-stack web developer specializing in MERN stack, passionate about codi
 * 🧠  I'm learning Data Structures and Algorithms | React  | HTML5 | CSS3 | ES6 JavaScript | NodeJs  | npm packages | Chakra UI | React-Bootstrap
 
 ### Skills
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
