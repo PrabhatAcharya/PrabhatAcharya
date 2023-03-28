@@ -77,11 +77,11 @@
 
 <p align="center">
  <a href="https://github.com/PrabhatAcharya/Myntra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Myntra&hide_border=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Myntra&hide_border=true&theme=radical" />
 </a>
  
 <a href="https://github.com/PrabhatAcharya/Discovery-Plus_Clone/tree/main/discovery_plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=radical" />
 </a>
 
 
@@ -92,7 +92,7 @@
 <br />
 <p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatAcharya&theme=merko" alt=""/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=PrabhatAcharya&theme=merko" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhatAcharya&theme=merko" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhatAcharya&theme=radical" alt="summarycard"/> </p>
 <br>
 <br>
 <br>
