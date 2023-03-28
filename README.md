@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! <span color="blue">I'm Prabhat Kumar Acharya</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
   
 <!--   <p align="center" ><img  style="width: 500px;" src="https://egensoftwares.com/wp-content/uploads/2021/08/mern.png"/></p> -->
 <!--  <p align="center" ><img  style="width: 500px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif"/></p> -->
- <p align="center" ><img  style="width: 200px;" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/></p>
+ <p align="center" ><img  style="width: 350px;height:350px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/></p>
    
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
@@ -62,17 +62,11 @@
   <a title="code2prabhat@gmail.com" href="mailto:code2prabhat@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/917249639469" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
 </p>
-
 <br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabhatAcharya&show_icons=true&hide_border=true&theme=merko" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatAcharya&hide_border=true&theme=merko" />
-</p>
 <h2>📊 Github Stats</h2>
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabhatAcharya&show_icons=true&hide_border=true&theme=merko" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrabhatAcharya&show_icons=true&hide_border=true&theme=merko" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatAcharya&hide_border=true&theme=merko" />
 </p>
 <br />
