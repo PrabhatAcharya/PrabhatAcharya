@@ -12,9 +12,9 @@ I'm a full-stack web developer specializing in MERN stack, passionate about codi
 
 
 * 🌍  I'm currently residing in Kharagpur West Bengal , India
-* 🖥️  See my portfolio at [My Portfolio](#)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio-prabhat.netlify.app/)
 * ✉️  You can contact me at [code2prabhat@gmail.com](mailto:code2prabhat@gmail.com)
-* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PZGDLSmCjZ47-VIonxDq3mz-NxdACVOn/view?usp=share_linkhttps://drive.google.com/file/d/1PZGDLSmCjZ47-VIonxDq3mz-NxdACVOn/view?usp=share_link)
+* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yig6uZ3FMmPmj-M6ZkQWcwPNhPvCUneb/view?usp=share_link)
 * 🧠  I'm learning Data Structures and Algorithms | React  | HTML5 | CSS3 | ES6 JavaScript | NodeJs  | npm packages | Chakra UI | React-Bootstrap
 
 ### Skills
