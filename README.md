@@ -6,7 +6,7 @@
   
 <!--   <p align="center" ><img  style="width: 500px;" src="https://egensoftwares.com/wp-content/uploads/2021/08/mern.png"/></p> -->
 <!--  <p align="center" ><img  style="width: 500px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif"/></p> -->
- <p align="center" ><img  style="width: 350px;height:350px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/></p>
+ <p align="center" ><img  style="width: 350px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/></p>
    
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
@@ -77,11 +77,11 @@
 
 <p align="center">
  <a href="https://github.com/PrabhatAcharya/Myntra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Myntra&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Myntra&hide_border=true&theme=merko" />
 </a>
  
 <a href="https://github.com/PrabhatAcharya/Discovery-Plus_Clone/tree/main/discovery_plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=merko" />
 </a>
 
 
@@ -90,9 +90,9 @@
 <hr>
 
 <br />
-<p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatAcharya&theme=radical" alt=""/></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=PrabhatAcharya&theme=radical" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhatAcharya&theme=radical" alt="summarycard"/> </p>
+<p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatAcharya&theme=merko" alt=""/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=PrabhatAcharya&theme=merko" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhatAcharya&theme=merko" alt="summarycard"/> </p>
 <br>
 <br>
 <br>
