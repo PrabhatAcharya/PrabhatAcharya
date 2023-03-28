@@ -34,16 +34,17 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
+  <!-- <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" /> -->
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
+  <!-- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" />  -->
+  <!-- <img src="https://rb.gy/v3tf3x" alt="Java" /> -->
 </p>
 
 <!-- <img src="" alt="" /> -->
 <h2><i>Tools | Use</i></h2>
 <p align="center">
-  <img border-radius:"10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
+  <!-- <img border-radius:"10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> -->
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
   <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
@@ -89,7 +90,7 @@
 <hr>
 
 <br />
-<!-- <p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatAcharya&theme=radical" alt=""/></p> -->
+<p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatAcharya&theme=radical" alt=""/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=PrabhatAcharya&theme=radical" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhatAcharya&theme=radical" alt="summarycard"/> </p>
 <br>
@@ -105,6 +106,6 @@
   <img src="https://profile-counter.glitch.me/PrabhatAcharya/count.svg" />
 </h3>
 
-<!-- <a href="https://google.com" align="center">
+<a href="https://google.com" align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</a> -->
+</a>
