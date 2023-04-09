@@ -74,7 +74,10 @@
 
 
 ## 📕 Pinned Repositories
-
+<p align="center">
+ <a href="https://github.com/PrabhatAcharya/MERN-BLOG-APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=MERN-BLOG-APP&hide_border=true&theme=radical" />
+</a>
 <p align="center">
  <a href="https://github.com/PrabhatAcharya/Myntra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Myntra&hide_border=true&theme=radical" />
