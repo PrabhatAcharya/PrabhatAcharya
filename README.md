@@ -88,7 +88,7 @@
 </a>
  
 <a href="https://github.com/PrabhatAcharya/Discovery-Plus_Clone/tree/main/discovery_plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=aura" />
 </a>
 
 
