@@ -78,9 +78,9 @@
  <a href="https://github.com/PrabhatAcharya/MoviesBookingApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=MoviesBookingApp&hide_border=true&theme=react" />
 </a>
-<p align="center">
+
  <a href="https://github.com/PrabhatAcharya/MERN-BLOG-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=MERN-BLOG-APP&hide_border=true&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=MERN-BLOG-APP&hide_border=true&theme=github_dark" />
 </a>
 <p align="center">
  <a href="https://github.com/PrabhatAcharya/Myntra">
@@ -88,7 +88,7 @@
 </a>
  
 <a href="https://github.com/PrabhatAcharya/Discovery-Plus_Clone/tree/main/discovery_plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatAcharya&repo=Discovery-Plus_Clone&hide_border=true&theme=chartreuse-dark" />
 </a>
 
 
