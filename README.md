@@ -10,7 +10,7 @@
    
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
-- 👨‍💻 My Portfolio - <a href="https://portfolio-prabhat.netlify.app/" style="color:blue; textDecoration:none;" target="_blank"><i>Prabhat Kumar Acharya</i></a>
+- 👨‍💻 My Portfolio - <a href="https://prabhatacharya.github.io/" style="color:blue; textDecoration:none;" target="_blank"><i>Prabhat Kumar Acharya</i></a>
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
